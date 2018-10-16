@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Automated API TEST]">
+  <test name="testCases(failed)" preserve-order="false">
+    <classes>
+      <class name="RESTAssuredJSONTests">
+        <methods>
+          <include name="getData"/>
+          <include name="test_GetStatus"/>
+          <include name="test_GetStatus_Id_For_Wild_Card"/>
+          <include name="test_Enroll"/>
+          <include name="test_UNEnroll"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

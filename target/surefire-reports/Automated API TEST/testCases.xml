@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-MD8QAV8" tests="4" failures="0" timestamp="1 Oct 2018 01:36:50 GMT" time="9.219" errors="0">
+  <testcase name="test_Enroll" time="4.338" classname="RESTAssuredJSONTests"/>
+  <testcase name="test_GetStatus" time="2.25" classname="RESTAssuredJSONTests"/>
+  <testcase name="test_UNEnroll" time="1.364" classname="RESTAssuredJSONTests"/>
+  <testcase name="test_GetStatus_Id_For_Wild_Card" time="1.252" classname="RESTAssuredJSONTests"/>
+</testsuite>
