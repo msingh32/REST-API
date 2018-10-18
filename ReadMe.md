@@ -1,4 +1,4 @@
-##** API TESTING**##
+## API TESTING ##
 
 ##### This project is build using Maven,TestNg and RestAssured #####
 
