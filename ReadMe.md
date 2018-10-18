@@ -1,8 +1,8 @@
 ##** API TESTING **##
 
-#####This project is build using Maven,TestNg and RestAssured#####
+##### This project is build using Maven,TestNg and RestAssured #####
 
-###Test Cases###
+### Test Cases ###
 
 * Test Case 1
     * Create an Enrollment Record with the information as given below:
